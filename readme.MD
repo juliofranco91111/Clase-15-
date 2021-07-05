@@ -1,6 +1,6 @@
 
-# Clase 9 - Frontend I 🚀
+# Clase 15 - Frontend I  (Responsive_Pet_Shop)🚀
 
-_Maquetación de práctica para actividad de clase 9._
+_Maquetación de práctica para actividad de clase 15._
 
-_Preview: https://juliofranco91111.github.io/clase-9-FEI/ ._
+_Preview: hhttps://juliofranco91111.github.io/Clase-15-/ ._
